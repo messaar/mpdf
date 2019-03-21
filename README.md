@@ -1,5 +1,5 @@
-Will be modified to more faster generate PDF with images!! when it will be done? this text will be updated,
-before it, dont use it please bcs it by development.
+<b>Will be modified to more faster generate PDF with images!! when it will be done? this text will be updated,
+before it, dont use it please bcs it by development.</b>
 
 mPDF is a PHP library which generates PDF files from UTF-8 encoded HTML.
 
