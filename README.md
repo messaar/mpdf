@@ -1,3 +1,6 @@
+Will be modified to more faster generate PDF with images!! when it will be done? this text will be updated,
+before it, dont use it please bcs it by development.
+
 mPDF is a PHP library which generates PDF files from UTF-8 encoded HTML.
 
 It is based on [FPDF](http://www.fpdf.org/) and [HTML2FPDF](http://html2fpdf.sourceforge.net/)
